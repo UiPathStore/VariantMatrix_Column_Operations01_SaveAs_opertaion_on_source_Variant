@@ -1,4 +1,9 @@
 {
   "issueKeyTestcaseValues": {},
-  "testManagerBasePath": ""
+  "testManagerBasePath": "https://cloud.uipath.com/intelclhwnvo/DefaultTenant/testmanager_/",
+  "defaultProject": {
+    "id": "973d9144-e233-0000-e3e6-0b46ab52bd03",
+    "name": "Variant_Matrix",
+    "key": "VRM"
+  }
 }
